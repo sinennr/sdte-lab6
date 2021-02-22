@@ -33,4 +33,3 @@ jobs:
           file: ./Dockerfile
           tags: "sinennr/sdte_lab_5:v1"
           push: true
-          

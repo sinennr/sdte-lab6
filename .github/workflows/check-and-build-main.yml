@@ -31,5 +31,5 @@ jobs:
         with:
           context: .
           file: ./Dockerfile
-          tags: "sinennr/sdte_lab_5:v1"
+          tags: "sinennr/sdte_lab_5:latest"
           push: true
